@@ -1,4 +1,15 @@
 $(document).ready( function () {
+
+  // this is the api status check
+  $.get( "http://0.0.0.0:5001/api/v1/status/", function( data ) {
+    if(data.status === "OK") {
+      $("DIV#api_status").addClass("available");
+      } else {
+        $("DIV#api_status").removeClass("available");
+      };
+  });
+
+  // this is the amenity filter
   let list = []
   let list_id = []
   $("input:checkbox").click(function () {
@@ -14,17 +25,3 @@ $(document).ready( function () {
     };
   });
 });
-
-
-/*
-$( document ).ready( function () {
-  $( "DIV.amenities li input" ).click(function( event ) {
-  var target = $( event.target );
-  if ( target.is( ":checked" ) ) {
-    alert(target.attr("data-name"));
-  } else {
-    $( 'DIV.amenities h4' ).text("removed");
-  }
-  });
-});
-*/
