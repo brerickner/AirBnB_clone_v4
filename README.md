@@ -1,7 +1,7 @@
 # AirBnB Clone - The Console
-The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). The project started off with a simple command interpreter to manage objects for the AirBnB(HBnB) website. In addition, AirBnb(HBnB) can utilize either a file storage or database storage system that syncs to a mySQL database. AirBnb(HBnB) renders both static and dynamic content, which features a filtered search option to narrow down places.
 
-#### Functionalities of this command interpreter:
+#### Functionalities of the command interpreter:
 * Create a new object (ex: a new User or a new Place)
 * Retrieve an object from a file, a database etc...
 * Do operations on objects (count, compute stats, etc...)
@@ -126,7 +126,6 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
-
 ## Examples of use
 ```
 vagrantAirBnB_clone$./console.py
@@ -150,10 +149,18 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
+## Code Style
+[![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
+
+
 ## Bugs
 No known bugs at this time. 
 
 ## Authors
+Bre Rickner - [Github](https://github.com/brerickner)
+[Twitter](https://twitter.com/brerickner)
+Ayden Townsley - [Github](https://github.com/aydentownsley) /
+[Twitter](https://twitter.com/whoziwhatzit_)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
