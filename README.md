@@ -157,10 +157,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Bre Rickner - [Github](https://github.com/brerickner)
-[Twitter](https://twitter.com/brerickner)
-Ayden Townsley - [Github](https://github.com/aydentownsley) /
-[Twitter](https://twitter.com/whoziwhatzit_)
+Bre Rickner - [Github](https://github.com/brerickner) / [Twitter](https://twitter.com/brerickner)
+Ayden Townsley - [Github](https://github.com/aydentownsley) / [Twitter](https://twitter.com/whoziwhatzit_)
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
