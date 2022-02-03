@@ -16,13 +16,13 @@
 </p>
 
 <p align="center">
-<a href="#environment">Environment</a> •
-<a href="#installation">Installation</a> •
-<a href="#file-descriptions">File Descriptions</a> •
-<a href="#examples-of-use">Examples of Use</a> •
-<a href="#bugs">Bugs</a> •
-<a href="#authors">Authors</a> •
-<a href="#license">License</a>
+<a href="#recycle-environment">Environment</a> •
+<a href="#wrench-installation">Installation</a> •
+<a href="#open_file_folder-file-descriptions">File Descriptions</a> •
+<a href="#computer-examples-of-use">Examples of Use</a> •
+<a href="#bug-bugs">Bugs</a> •
+<a href="#busts_in_silhouette-authors">Authors</a> •
+<a href="#scroll-license">License</a>
 </p>
 
 
