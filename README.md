@@ -16,12 +16,10 @@
 </p>
 
 <p align="center">
-<a href="#table-of-content">Table of Contents</a> •
 <a href="#environment">Environment</a> •
 <a href="#installation">Installation</a> •
 <a href="#file-descriptions">File Descriptions</a> •
 <a href="#examples-of-use">Examples of Use</a> •
-<a href="#code-style">Code Style</a> •
 <a href="#bugs">Bugs</a> •
 <a href="#authors">Authors</a> •
 <a href="#license">License</a>
