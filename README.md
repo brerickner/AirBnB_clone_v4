@@ -1,9 +1,13 @@
 <a href="https://github.com/brerickner/">
-    <img src="bre_favi.png" alt="Bre" title="Bre's Github" align="right" height="60">
+    <img src="bre_favi.png" alt="Bre" title="Bre's Github" align="right" height="60"/>
 </a>
 
-# AirBnB Clone - v.4
-![HBnB](HBNB_image.png)
+# :house_with_garden: AirBnB Clone - v.4
+
+<p align="center">
+<a href="https://github.com/brerickner/AirBnB_clone_v4">
+    <img src="HBNB_image.png" alt="logo" width="250" height="200"></a>
+</p>
 
 <p align="center">
 <a href="https://scrutinizer-ci.com/g/brerickner/AirBnB_clone_v4/?branch=master"><img src="https://scrutinizer-ci.com/g/brerickner/AirBnB_clone_v4/badges/quality-score.png?b=master" alt="quality score" title="AirBnB-Clone code quality score (1-10)"></a>
@@ -24,7 +28,7 @@
 </p>
 
 
-## Introduction
+## :sparkles: Introduction
 
 The goal of this final AirBnB project is to deploy to our servers a dynamic version of the AirBnB Website(HBnB). The project started off with a simple command interpreter to manage objects for the AirBnB(HBnB) website. In addition, AirBnb(HBnB) can utilize either a file storage or database storage system that syncs to a mySQL database. AirBnb(HBnB) renders both static and dynamic content, which features a filtered search option to narrow down places.
 
