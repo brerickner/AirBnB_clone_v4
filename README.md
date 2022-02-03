@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/brerickner/AirBnB_clone_v4">
-    <img src="HBNB_image.png" alt="logo" width="250" height="200"></a>
+    <img src="HBNB_image.png" alt="logo" width="300" height="200"></a>
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 <a href="#environment">Environment</a> •
 <a href="#installation">Installation</a> •
 <a href="#file-descriptions">File Descriptions</a> •
-<a href="#examples-of-use">Examples of Use</a>
-<a href="#code-style">Code Style</a>
-<a href="#bugs">Bugs</a>
-<a href="#authors">Authors</a>
+<a href="#examples-of-use">Examples of Use</a> •
+<a href="#code-style">Code Style</a> •
+<a href="#bugs">Bugs</a> •
+<a href="#authors">Authors</a> •
 <a href="#license">License</a>
 </p>
 
