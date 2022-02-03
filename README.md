@@ -1,5 +1,32 @@
-# AirBnB Clone - The Console
-The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). The project started off with a simple command interpreter to manage objects for the AirBnB(HBnB) website. In addition, AirBnb(HBnB) can utilize either a file storage or database storage system that syncs to a mySQL database. AirBnb(HBnB) renders both static and dynamic content, which features a filtered search option to narrow down places.
+<a href="https://github.com/brerickner/">
+    <img src="bre_favi.png" alt="Bre" title="Bre's Github" align="right" height="60">
+</a>
+
+# AirBnB Clone - v.4
+![HBnB](HBNB_image.png)
+
+<p align="center">
+<a href="https://scrutinizer-ci.com/g/brerickner/AirBnB_clone_v4/?branch=master"><img src="https://scrutinizer-ci.com/g/brerickner/AirBnB_clone_v4/badges/quality-score.png?b=master" alt="quality score" title="AirBnB-Clone code quality score (1-10)"></a>
+<a href="https://scrutinizer-ci.com/g/brerickner/AirBnB_clone_v4/build-status/master"><img src="https://scrutinizer-ci.com/g/brerickner/AirBnB_clone_v4/badges/build.png?b=master" alt="build status" title="Build Successful!"></a>
+<a href="https://scrutinizer-ci.com/code-intelligence"><img src="https://scrutinizer-ci.com/g/brerickner/AirBnB_clone_v4/badges/code-intelligence.svg?b=master" alt="code intelligence" title="Code Intelligence available"></a>
+</p>
+
+<p align="center">
+<a href="#table-of-content">Table of Contents</a> •
+<a href="#environment">Environment</a> •
+<a href="#installation">Installation</a> •
+<a href="#file-descriptions">File Descriptions</a> •
+<a href="#examples-of-use">Examples of Use</a>
+<a href="#code-style">Code Style</a>
+<a href="#bugs">Bugs</a>
+<a href="#authors">Authors</a>
+<a href="#license">License</a>
+</p>
+
+
+## Introduction
+
+The goal of this final AirBnB project is to deploy to our servers a dynamic version of the AirBnB Website(HBnB). The project started off with a simple command interpreter to manage objects for the AirBnB(HBnB) website. In addition, AirBnb(HBnB) can utilize either a file storage or database storage system that syncs to a mySQL database. AirBnb(HBnB) renders both static and dynamic content, which features a filtered search option to narrow down places.
 
 #### Functionalities of the command interpreter:
 * Create a new object (ex: a new User or a new Place)
@@ -8,7 +35,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * Update attributes of an object
 * Destroy an object
 
-## Table of Content
+## :bookmark_tabs: Table of Content
 * [Environment](#environment)
 * [Installation](#installation)
 * [File Descriptions](#file-descriptions)
@@ -18,16 +45,16 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Authors](#authors)
 * [License](#license)
 
-## Environment
+## :recycle: Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
-## Installation
+## :wrench: Installation
 * Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
 
-## File Descriptions
+## :open_file_folder: File Descriptions
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
 List of commands this console current supports:
 * `EOF` - exits console 
@@ -126,8 +153,8 @@ TestBaseModel class:
 * `def test_user_module_docstring(self)` - Test for the user.py module docstring
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
-## Examples of use
-```
+## :computer: Examples of use
+```python
 vagrantAirBnB_clone$./console.py
 (hbnb) help
 
@@ -149,21 +176,21 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Code Style
+## :pencil: Code Style
 [![js-semistandard-style](https://raw.githubusercontent.com/standard/semistandard/master/badge.svg)](https://github.com/standard/semistandard)
 
 
-## Bugs
+## :bug: Bugs
 No known bugs at this time. 
 
-## Authors
-Bre Rickner - [Github](https://github.com/brerickner) / [Twitter](https://twitter.com/brerickner)
-Ayden Townsley - [Github](https://github.com/aydentownsley) / [Twitter](https://twitter.com/whoziwhatzit_)
+## :busts_in_silhouette: Authors
+Bre Rickner - [Github](https://github.com/brerickner) / [Twitter](https://twitter.com/brerickner)  
+Ayden Townsley - [Github](https://github.com/aydentownsley) / [Twitter](https://twitter.com/whoziwhatzit_)  
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
-## License
+## :scroll: License
 Public Domain. No copy write protection. 
